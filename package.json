@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.10.0",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "node": "^11.4.0"
   },
   "repository": {
     "type": "git",
